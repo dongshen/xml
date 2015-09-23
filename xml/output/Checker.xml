@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Checkers>
+    <Coverity_C>
+        <Checker Category="category 1" Type="type 1" Clear="Mandatory">
+            <Rules/>
+        </Checker>
+        <Checker Category="category 2" Type="type 2" Clear="Suggest">
+            <Rules/>
+        </Checker>
+        <Checker Category="category 3" Type="type, 3" Clear="It depend">
+            <Rules/>
+        </Checker>
+    </Coverity_C>
+</Checkers>
